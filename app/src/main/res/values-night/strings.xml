@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Pitutur</string>
     <string name="splash_name">Pitutur</string>
     <string name="splash_logo">pitutur_logo</string>
     <string name="Splash_desc">Dipersembahkan Untuk :</string>
@@ -19,7 +19,6 @@
     <string name="lupa_password_txt">Lupa Password</string>
     <string name="loading_txt">Mohon Tunggu Sebentar</string>
     <string name="image_strings">image</string>
-    <string name="keterangan_profile_pengguna">Informasi Pengguna</string>
     <string name="btn_simpan">simpan</string>
     <string name="tamplate_home">Tamplate</string>
     <string name="tamplate_izin_kehadiran">Izin Kehadiran</string>
